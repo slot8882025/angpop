@@ -2,15 +2,15 @@
   "userinfo": {
     "privacy": {
       "version": "1.0lief",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "iosU": "qtitp2kz9ips",
       "Area": [
     {
           "key": "HK",
           "name": "1",
-          "value": "cah",
-      "valueinfo": "load",
+          "value": "https://w",
+      "valueinfo": "ww.baidu.com",
           "code": "",
        "codeinfo": ""
         }
